@@ -23,12 +23,20 @@ This contains 70,000 images of handwritten digits 0-9. It has 60,000 images in t
 - CV2
 - pyttsx3
 - matplotlib
+- seaborn
 
 ## Results
 
 The accuracy obtained is:
 - On training set: 99.75%
 - On testing set: 99.22%
+### Model Accuracy
+![Accuracy Plot](https://user-images.githubusercontent.com/76864260/173128486-071648b8-9380-4e5e-abf9-404914338579.png)
+
+### Model Loss
+![Loss Plot](https://user-images.githubusercontent.com/76864260/173129128-3ecaf43a-9c08-4b90-83fc-a54b7224d5a7.png)
+
+
 
 ## Done by
 [Leela Rani Aluru](https://github.com/LEELARANIALURU)
