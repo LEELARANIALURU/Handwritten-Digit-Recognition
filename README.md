@@ -24,6 +24,7 @@ This contains 70,000 images of handwritten digits 0-9. It has 60,000 images in t
 - pyttsx3
 - matplotlib
 - seaborn
+- Pandas
 
 ## Results
 
